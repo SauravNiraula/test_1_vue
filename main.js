@@ -19,9 +19,9 @@ var app = new Vue({
             },
             {
                 id: 1237,
-                image: 'blue.jpeg',
+                image: 'red.jpeg',
                 color: 'red',
-                quantity: 2,
+                quantity: 0,
             },
 
         ],
@@ -35,7 +35,7 @@ var app = new Vue({
         resetCart(){
             this.varients[0].quantity = 11;
             this.varients[1].quantity = 2;
-            this.varients[2].quantity = 2;
+            this.varients[2].quantity = 0;
             this.cart = 0;
             
         },
