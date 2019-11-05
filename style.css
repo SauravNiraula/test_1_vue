@@ -1,0 +1,32 @@
+.title_of_msc{
+    font-size: 25px;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+}
+.stock{
+    font-weight: bold;
+    font-size: 18px;
+}
+.paddingList{
+    background-color:grey;
+    padding: 3ch;
+
+}
+.btnc{
+    background-color: aqua;
+    box-shadow: none;
+    border-radius: 4px;
+}
+.btnd{
+    background-color: grey;
+    box-shadow: aquamarine;
+    border-radius: 4px;
+}
+.btnr{
+    background-color: rgb(241, 8, 8);
+    box-shadow: none;
+    border-radius: 4px;
+}
